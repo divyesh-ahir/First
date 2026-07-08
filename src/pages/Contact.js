@@ -13,8 +13,6 @@ import {
   FaPhone,
   FaGithub,
   FaLinkedinIn,
-  FaTwitter,
-  FaGlobe,
   FaPaperPlane,
 } from "react-icons/fa";
 
@@ -85,7 +83,7 @@ function Contact() {
 
             <div className="social-icons">
 
-              <a href="#">
+              <a href="/">
                 <FaGithub />
               </a>
 
