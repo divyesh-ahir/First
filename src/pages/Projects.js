@@ -31,8 +31,8 @@ function Projects() {
             </div>
 
             <div className="project-links">
-              <a href="#">GitHub</a>
-              <a href="#">Live Demo</a>
+              <a href="/">GitHub</a>
+              <a href="/">Live Demo</a>
             </div>
 
           </div>
@@ -56,8 +56,8 @@ function Projects() {
             </div>
 
             <div className="project-links">
-              <a href="#">GitHub</a>
-              <a href="#">Live Demo</a>
+              <a href="/">GitHub</a>
+              <a href="/">Live Demo</a>
             </div>
 
           </div>
