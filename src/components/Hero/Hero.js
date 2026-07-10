@@ -43,11 +43,11 @@ function Hero() {
         <div className="hero-buttons">
 
            <a
-            href="/resume.pdf"
-            download="Divyesh_Resume.pdf"
+            href="https://first-mu-ivory.vercel.app/projects"
+            
             className="btn1"
           >
-            Download CV
+            View Projects
           </a>
 
       
