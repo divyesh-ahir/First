@@ -33,7 +33,7 @@ function About() {
           </p>
        
           <a
-            href="/resume.pdf"
+            href="/230470107037.pdf"
             download="Divyesh_Resume.pdf"
             className="about-btn"
           >
