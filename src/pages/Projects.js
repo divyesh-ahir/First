@@ -25,9 +25,9 @@ function Projects() {
             </p>
 
             <div className="tech">
-              <span>React.js</span>
-              <span>CSS</span>
               <span>HTML</span>
+              <span>CSS</span>
+              <span>React.js</span>
             </div>
 
             <div className="project-links">
@@ -58,6 +58,28 @@ function Projects() {
             <div className="project-links">
               <a href="https://github.com/divyesh-ahir/Login-page">GitHub</a>
               <a href="https://login-page-hazel-five.vercel.app/">Live Demo</a>
+            </div>
+
+          </div>
+      <div className="project-card">
+
+            <h2>Tiny Learners</h2>
+
+            <p>
+              An educational web app designed for Nursery, LKG, and UKG kids with interactive learning, audio, rhymes, quizzes, and a responsive UI.
+              Building this project helped me strengthen my React fundamentals and frontend development skills.
+            </p>
+
+            <div className="tech">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>React.js</span>
+              <span>JS</span>
+            </div>
+
+            <div className="project-links">
+              <a href="https://github.com/divyesh-ahir/Login-pag">GitHub</a>
+              <a href="https://tiny-learners-nine.vercel.app/">Live Demo</a>
             </div>
 
           </div>
