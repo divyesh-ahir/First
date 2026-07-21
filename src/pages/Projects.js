@@ -56,7 +56,7 @@ function Projects() {
             </div>
 
             <div className="project-links">
-              <a href="https://github.com/divyesh-ahir/Login-page">GitHub</a>
+              <a href="https://github.com/divyesh-ahir/Login-pag">GitHub</a>
               <a href="https://login-page-hazel-five.vercel.app/">Live Demo</a>
             </div>
 
@@ -78,7 +78,7 @@ function Projects() {
             </div>
 
             <div className="project-links">
-              <a href="https://github.com/divyesh-ahir/Login-pag">GitHub</a>
+              <a href="https://github.com/divyesh-ahir/TinyLearners">GitHub</a>
               <a href="https://tiny-learners-nine.vercel.app/">Live Demo</a>
             </div>
 
